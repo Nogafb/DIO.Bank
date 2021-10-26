@@ -1,0 +1,9 @@
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\bin\Debug\net471\DIO.Bank.exe
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\bin\Debug\net471\DIO.Bank.pdb
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\obj\Debug\net471\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\obj\Debug\net471\DIO.Bank.AssemblyInfo.cs
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\obj\Debug\net471\DIO.Bank.exe
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\obj\Debug\net471\DIO.Bank.pdb
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\bin\Debug\net471\DIO.Bank.runtimeconfig.json
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\bin\Debug\net471\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Windows\Documents\Noga\projetos\DIO.Bank\obj\Debug\net471\DIO.Bank.csprojAssemblyReference.cache
